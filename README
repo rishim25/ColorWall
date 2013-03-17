@@ -39,3 +39,9 @@ python run.py -w 5 -t 10
 To run only specific effects, pass the effect names on the commandline. e.g.:
 
 python run.py Rainbow Twinkle KnightMoves
+
+
+Contributors
+------------
+
+Python Tutorial Group PyCon2013
